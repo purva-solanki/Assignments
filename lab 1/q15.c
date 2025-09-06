@@ -32,12 +32,6 @@ int main()
             break;
     case 1 : printf("D");
             break;
-
-    
-  }
-
-
-  return 0;
-
-
+}
+    return 0;
 }
